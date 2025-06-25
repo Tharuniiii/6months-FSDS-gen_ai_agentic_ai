@@ -29,7 +29,8 @@ AI-FSDS-progress-journal/
 
 Hello! I'm Tharuni Teegala, a recent B.Tech graduate in Information Technology, with a deep passion for Data Science, Machine Learning, and AI. I'm currently part of the AI-Full Stack Data Science (AI-FSDS) @10AM batch, where I’ve been consistently building my skills through structured learning, practical tasks, and real-world project implementation under the mentorship of @kodigitaccount (K. Prakash Senapati).
 
-**🙏 Acknowledgements**
+****🙏 Acknowledgements****
+
 Special thanks to @kodigitaccount (K. Prakash Senapati) for mentoring and guiding us through this journey.
 
 Also inspired by fellow learners and their amazing work in documenting their progress 🙌
