@@ -6,7 +6,7 @@ a curated collection of practical tasks, Jupyter notebooks, and Python exercises
 
 This repository is a daily record of my Python programming and data science journey — designed to reinforce my understanding and share my progress publicly.**
 
-**📂 Repository Structure**
+****📂 Repository Structure****
 
 AI-FSDS-progress-journal/
 
