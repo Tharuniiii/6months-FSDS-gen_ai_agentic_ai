@@ -23,6 +23,9 @@ AI-FSDS-progress-journal/
 
 ├── 25th_june_assignment.ipynb           # Tuples: indexing, slicing, methods
 
+├── 26th_sets_assignment.ipynb           # Sets:introduction,methods
+
+
 ├── README.md                            # You're reading it!
 
 **👩‍💻 About Me**
