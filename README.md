@@ -25,6 +25,8 @@ AI-FSDS-progress-journal/
 
 ├── 26th_sets_assignment.ipynb           # Sets:introduction,methods
 
+├── 27th_dictionary_assignment.ipynb     # dictionary:introduction,methods
+
 
 ├── README.md                            # You're reading it!
 
